@@ -11,3 +11,4 @@ sudo npm install bower@1.3 -g
 echo "Bower instalado"
 sudo npm audit fix
 echo "Pacotes corrigidos"
+
