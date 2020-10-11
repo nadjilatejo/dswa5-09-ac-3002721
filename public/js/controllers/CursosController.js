@@ -28,4 +28,4 @@ angular.module('ifsp').controller('CursosController',
                     $scope.mensagem = { texto: "Não foi possível remover o curso" };
                 });
         };
-    });
+    }); 
